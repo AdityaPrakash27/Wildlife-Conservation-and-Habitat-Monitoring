@@ -32,15 +32,15 @@ This project aims to support wildlife conservation and habitat monitoring by lev
 ### 5. Visualization with Tableau
 - **Species Count**: A bar graph showing the total count of species is plotted using Tableau.
 
-  ![Species Count Graph](path/to/species_count_graph.png)
+  ![Species Count Graph](https://raw.githubusercontent.com/AdityaPrakash27/Wildlife-Conservation-and-Habitat-Monitoring/refs/heads/main/total%20count.png)
 
 - **K-Means Clustering**: A Tableau map is used to visualize species clustering based on geographic coordinates.
 
-  ![K-Means Species Mapping](path/to/kmeans_specieswise_mapping.png)
+  ![K-Means Species Mapping](https://raw.githubusercontent.com/AdityaPrakash27/Wildlife-Conservation-and-Habitat-Monitoring/refs/heads/main/k%20means.png)
 
 - **Decision Tree**: A Tableau map shows habitat suitability predictions, identifying the best areas for species conservation.
 
-  ![Decision Tree Mapping](path/to/decision_tree_mapping.png)
+  ![Decision Tree Mapping](https://raw.githubusercontent.com/AdityaPrakash27/Wildlife-Conservation-and-Habitat-Monitoring/refs/heads/main/dt.png)
 
 ## Scripts
 - `wildlife_monitoring.py`: Script used for preprocessing species data using PySpark.
