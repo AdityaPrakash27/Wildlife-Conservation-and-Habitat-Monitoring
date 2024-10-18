@@ -16,7 +16,7 @@ assembler = VectorAssembler(inputCols=['decimalLatitude', 'decimalLongitude'], o
 df_features = assembler.transform(df_cleaned)
 
 # Step 2: Create and train the KMeans model
-k = 10  # Example value, you can adjust based on your elbow plot analysis
+k = 6  # Example value, you can adjust based on your elbow plot analysis
 kmeans = KMeans(k=k, seed=1, featuresCol='features', predictionCol='prediction')
 model = kmeans.fit(df_features)
 
