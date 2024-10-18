@@ -36,7 +36,7 @@ This project aims to support wildlife conservation and habitat monitoring by lev
 
 - **K-Means Clustering**: A Tableau map is used to visualize species clustering based on geographic coordinates.
 
-  ![K-Means Species Mapping](https://raw.githubusercontent.com/AdityaPrakash27/Wildlife-Conservation-and-Habitat-Monitoring/refs/heads/main/k%20means.png)
+  ![K-Means Species Mapping](https://raw.githubusercontent.com/AdityaPrakash27/Wildlife-Conservation-and-Habitat-Monitoring/refs/heads/main/k_means.jpg)
 
 - **Decision Tree**: A Tableau map shows habitat suitability predictions, identifying the best areas for species conservation.
 
